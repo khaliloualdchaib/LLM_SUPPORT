@@ -52,7 +52,7 @@ def main():
         text = row["Question"]
         data["Question"].append(text)
         results = db.similarity_search_with_relevance_scores(text, k=3)
-        if len(results) == 0 or results[0][1] < 0.6:
+        if len(results) == 0:
             data["Answer"].append('Unable to find matching results.')
             print(f'Unable to find matching results.')
         else:
