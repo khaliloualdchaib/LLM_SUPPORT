@@ -1,0 +1,203 @@
+,Question,Answer
+0,What should you do before creating a new contact in Salesforce?,"Before creating a Contact in Salesforce, you should always use the Global Search Bar to ensure that the Contact does not already exist in the system. If the search returns a result, you can verify if it's the same child by checking for matching details such as date of birth (DOB) or address."
+1,What record type should you select when creating a contact for a child or parent?,"According to the context, when creating a Contact (child), you should use ""Client"" as the Record Type."
+2,What field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+3,What should you do if the parent's address is different from the child's address?,Unable to find matching results.
+4,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement, you need to click on the 'Contacts' tab and then select the name of the Contact (which should always be the child) from the list. Then, click on 'Add Contact to Non-School Program'."
+5,What field must be filled when creating a Program Engagement?,The 'Stage' field must be selected.
+6,What should you do if a child is referred for a different service after completing a program?,Unable to find matching results.
+7,What must you always create before logging a Service Delivery for a child?,A Program Engagement must always be created for a child before any Service Deliveries can be logged.
+8,How can you quickly add multiple Service Deliveries for a group of children?,You can use 'Bulk Service Deliveries' to quickly enter multiple Service Deliveries at once.
+9,Where do consultations appear after they are logged?,"According to the provided context, after a consultation is logged, it appears in the 'Consultations' tab within the child's Program Engagement."
+10,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+11,Explain record type should you select when creating a contact for a child or parent?,"According to the context, when creating a Contact (child), you should always use ""Client"" as the Record Type.
+
+When creating a Contact (parent) and linking family members, you should also select ""Client"" as the Record Type."
+12,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+13,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+14,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement for a child, you should click the 'Contacts' tab and then click on the name of the child."
+15,Explain field must be filled when creating a Program Engagement?,"According to the provided context, fields ""Complete all relevant fields with referral information"" must be filled in when creating a Program Engagement."
+16,Explain should you do if a child is referred for a different service after completing a program?,"According to the context, if a child is referred for a different service after completing a program, you should:
+
+1. Create a new Program Engagement for the new referral.
+2. This applies even if there is no gap between the services.
+
+In other words, each time a child is referred for a new service, a new Program Engagement should be created to ensure accurate record-keeping and tracking of their referrals."
+17,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+18,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using 'Bulk Service Deliveries'. To do this, follow steps (i) to (ix) in the original text, and then click ""Add Entry"" to add another Service Delivery for another client. Repeat the same steps until all the necessary Service Deliveries are added."
+19,Where do consultations appear after they are logged?,Consultations appear under the 'Consultations' tab within the child's Program Engagement.
+20,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+21,Explain record type should you select when creating a contact for a child or parent?,"According to the provided context, when creating a contact:
+
+- When adding a parent as a Contact, Record Type 'Client' should be selected.
+- However, there is no specific instruction on selecting Record Type when creating a contact for a child. 
+
+Based on standard practice in most CRM systems, when creating a contact (child), the Record Type usually defaults to or can be set to 'Child'."
+22,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+23,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+24,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement, click the 'Contacts' tab. Then, click on the name of the Contact you want to create a Program Engagement for (which is always the child), and select ""Add Contact to Non-School Program""."
+25,Explain field must be filled when creating a Program Engagement?,"According to the context, fields must be completed with referral information when creating a Program Engagement."
+26,Explain should you do if a child is referred for a different service after completing a program?,"If a child is referred for a different service after completing a program, you should create a new Program Engagement. Even if there is no gap between the services, this rule applies."
+27,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+28,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using the ""Bulk Service Deliveries"" function. To do this, click the ""Bulk Service Deliveries"" tab at the top of the task bar and follow steps (i) to (ix), which are similar to recording a single service delivery."
+29,Where do consultations appear after they are logged?,Consultations appear under the 'Consultations' tab within the child's Program Engagement.
+30,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+31,Explain record type should you select when creating a contact for a child or parent?,"Based on the provided context, 
+
+When creating a Contact (child), the Record Type is not explicitly mentioned as an option. However, it is mentioned that ""Never use 'Standard'"" and instead to always use ""Client"" Record Type for children and parents.
+
+When creating a contact for a parent, the Record Type should be selected as 'Client'."
+32,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+33,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+34,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement, you should click on the 'Contacts' tab and then select the child's name."
+35,Explain field must be filled when creating a Program Engagement?,"According to the provided context, the following fields must always be selected when creating a Program Engagement:
+
+(i) 'St Francis Family Centre' or 'St Mark's Stay & Play'
+
+(ii) 'In Progress'
+
+(vii) Click 'Save' (not a field but an action)
+
+The other fields should be completed with referral information."
+36,Explain should you do if a child is referred for a different service after completing a program?,"If a child is referred for a different service after completing a program, you should create a new Program Engagement. This applies even if there is no gap between referrals, such as from nursery attendance to after-school care."
+37,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+38,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using ""Bulk Service Deliveries"". To do this, click the ""Bulk Service Deliveries"" tab at the top of the task bar, and follow steps (i) to (ix) as outlined in the instructions."
+39,Where do consultations appear after they are logged?,Consultations appear under the 'Consultations' tab within the child's Program Engagement.
+40,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+41,Explain record type should you select when creating a contact for a child or parent?,"According to the context, 
+
+When creating a contact, you should always use the ""Client"" Record Type. For children, this is because they are considered under a specific household (e.g., ""Bunny Household""). For parents, it is recommended to select the ""Client"" record type as well when creating a new contact on the system."
+42,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+43,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+44,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement, you should click the 'Contacts' tab and then select the child's name from the list."
+45,Explain field must be filled when creating a Program Engagement?,"According to the provided context, there are several fields that ""must"" be filled in when creating a Program Engagement:
+
+1. All relevant fields with referral information (i.e., required information)
+2. The 'Program' field must always select either 'St Francis Family Centre' or 'St Mark’s Stay & Play'.
+3. The 'Stage' field must always select 'In Progress'."
+46,Explain should you do if a child is referred for a different service after completing a program?,"If a child is referred for a different service after completing a program, you should create a new Program Engagement. Even if there is no gap in time, such as the child attending nursery and then being referred for after-school care, you should have one Program Engagement for each separate piece of work."
+47,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+48,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using the ""Bulk Service Deliveries"" function."
+49,Where do consultations appear after they are logged?,"According to the context, after a consultation is logged, it appears under the 'Consultations' tab within the child's Program Engagement."
+50,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+51,Explain record type should you select when creating a contact for a child or parent?,"Based on the provided context, when creating a contact:
+
+- For children (Contact), always use ""Standard"" Record Type.
+- For parents, always use ""Client"" Record Type."
+52,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+53,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+54,Where should you go to create a Program Engagement for a child?,"According to the provided context, you should go to the 'Contacts' tab to create a Program Engagement for a child."
+55,Explain field must be filled when creating a Program Engagement?,"According to the context, fields such as 'Referral Information' and 'Stage' must be filled when creating a Program Engagement."
+56,Explain should you do if a child is referred for a different service after completing a program?,"If a child is referred for a different service after completing a program, you should create a new Program Engagement. This applies even if there is no gap between services, such as attending nursery and then being referred for after-school care."
+57,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+58,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using the ""Bulk Service Deliveries"" function. To do this, follow steps (i) to (ix) as described in the context: 
+
+(i) Click the “Bulk Service Deliveries” tab at the top of the task bar. 
+(ii) Select create Service Deliveries for an individual. 
+(iii) Search for and select the Client(s) in the ‘Client’ field. 
+(iv) Select the Program Engagement you want the service delivery added to. 
+(v) Select the relevant Service from the drop down menu. 
+(vi) Enter the Delivery Date. 
+(vii) Leave the ‘Universal Services: Total attendees’ field blank. 
+(viii) Record a Session Summary if applicable. 
+(ix) Click “Add Entry” to add another Service Delivery for another client and repeat the same steps.
+
+Then, finally, click ""Save"" to automatically store the multiple Service Deliveries under each child's Program Engagement."
+59,Where do consultations appear after they are logged?,"According to the context, a consultation appears under the 'Consultations' tab within the child's Program Engagement."
+60,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+61,Explain record type should you select when creating a contact for a child or parent?,"According to the context, when creating a contact:
+
+- If it's a child, use 'Client' Record Type. 
+- If it's a parent, use 'Client' Record Type as well."
+62,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+63,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+64,Where should you go to create a Program Engagement for a child?,"According to the context, to create a Program Engagement for a child, you should:
+
+(i) Click the 'Contacts' tab
+(ii) Click on the name of the contact (which is always the child)
+(iii) Click the 'Add Contact to Non-School Program' option."
+65,Explain field must be filled when creating a Program Engagement?,"According to the context, fields must be completed with referral information when creating a Program Engagement."
+66,Explain should you do if a child is referred for a different service after completing a program?,"If a child is referred for a different service after completing a program, you should create a new program engagement. This applies even if there is no gap in time between the services, such as attending nursery and then being referred for after-school care."
+67,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+68,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using ""Bulk Service Deliveries"". To do this, follow steps (i) to (ix) as described in the context."
+69,Where do consultations appear after they are logged?,"According to the provided context, Consultations appear in the 'Consultations' tab within the child's Program Engagement."
+70,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+71,Explain record type should you select when creating a contact for a child or parent?,"According to the provided context, when creating a contact, if it's for:
+
+- A Child: Always use 'Client' Record Type.
+
+- A Parent: Use 'Client' Record Type as well."
+72,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+73,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+74,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement, you need to click on the 'Contacts' tab and then select the child's name."
+75,Explain field must be filled when creating a Program Engagement?,"According to the context, all relevant fields with referral information must be completed when creating a Program Engagement."
+76,Explain should you do if a child is referred for a different service after completing a program?,"According to the provided context, if a child is referred for a different service after completing a program, you should create a new Program Engagement. This applies even if there is no gap between the services, such as from nursery attendance to after-school care."
+77,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+78,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using the ""Bulk Service Deliveries"" function. To do this, follow steps (i) to (ix) as mentioned in the context:
+
+(i) Click the “Bulk Service Deliveries” tab at the top of the task bar.
+(ii) Select create Service Deliveries for an individual
+(iii) Search for and select the Client
+(iv) Select the Program Engagement
+(v) Select the relevant Service from the drop down menu
+(vi) Enter the Delivery Date
+(vii) Leave the ‘Universal Services: Total attendees’ field blank
+(viii) Record a Session Summary if applicable
+(ix) Click “Add Entry” to add another Service Delivery for another client and repeat the same steps.
+
+This will allow you to quickly enter multiple Service Deliveries at once."
+79,Where do consultations appear after they are logged?,Consultations appear in the 'Consultations' tab within the child's Program Engagement.
+80,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+81,Explain record type should you select when creating a contact for a child or parent?,"According to the provided context, you should always use the 'Client' Record Type when creating a Contact in the system. 
+
+This is specified in sections 6 and 7 of the text:
+
+- When adding a parent as a Contact (section 6), the Record Type should be 'Client'.
+- Additionally, when creating a contact for a child (section 4), it also mentions using 'Client' Record Type.
+
+There is no mention of selecting any other record type for children or parents."
+82,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+83,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+84,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement, you should click the 'Contacts' tab and then click on the name of the child you want to create the engagement for."
+85,Explain field must be filled when creating a Program Engagement?,"According to the context, the following fields MUST be filled when creating a Program Engagement:
+
+(i) Complete all relevant fields with referral information
+(ii) The 'Program' field: select either ""St Francis Family Centre"" or ""St Mark's Stay & Play""
+(iii) The 'Stage' field: select ""In Progress""
+
+These are specified in steps (iv), (v), and (vii)."
+86,Explain should you do if a child is referred for a different service after completing a program?,"According to the context, if a child is referred for a different service after completing a program, you should create a new Program Engagement. This applies even if there is no gap between services, such as attending nursery and then being referred for after-school care."
+87,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+88,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using 'Bulk Service Deliveries'. To do this, follow these steps:
+
+(i) Click the “Bulk Service Deliveries” tab at the top of the task bar.
+(ii) Select create Service Deliveries for an individual
+(iii) Search for and select the Client in the ‘Client’ field
+(iv) Select the Program Engagement you want the service delivery added to
+(v) Select the relevant Service from the drop down menu
+(vi) Enter the Delivery Date
+(vii) Leave the ‘Universal Services: Total attendees’ field blank.
+(viii) Record a Session Summary if applicable
+(ix) Click “Add Entry” to add another Service Delivery for another client and repeat the same steps.
+
+Then, click ""Save"" and a message will confirm the number of Service Deliveries that will now be automatically stored under each child’s Program Engagement."
+89,Where do consultations appear after they are logged?,"According to the provided context, Consultations appear under the 'Consultations' tab within the child's 'Program Engagement'."
+90,Explain should you do before creating a new contact in Salesforce?,Unable to find matching results.
+91,Explain record type should you select when creating a contact for a child or parent?,"According to the context, when creating a contact:
+
+* For a child, you should never use ""Standard"" Record Type. Instead, you should always use ""Client"" as Record Type.
+* For a parent, when linking family members, you should select ""Record Type 'Client'"".
+
+However, when specifically creating a contact for a parent (not the child), you should select ""Record Type 'Client'""."
+92,Explain field should be left blank when adding the first family member to Salesforce?,Unable to find matching results.
+93,Explain should you do if the parent's address is different from the child's address?,Unable to find matching results.
+94,Where should you go to create a Program Engagement for a child?,"To create a Program Engagement for a child, click the 'Contacts' tab and then select the name of the child from the list."
+95,Explain field must be filled when creating a Program Engagement?,"According to the context, the following fields must be filled when creating a Program Engagement:
+
+(i) Referral information
+(ii) 'Program' field (must select either 'St Francis Family Centre' or 'St Mark’s Stay & Play')
+(vii) 'Stage' field (must select 'In Progress')"
+96,Explain should you do if a child is referred for a different service after completing a program?,"According to the context, if a child is referred for a different service after completing a program, you should create a new Program Engagement. The text states that ""Once the piece of work ends and the Program Engagement is closed..."". This implies that even if there is no gap between services, a new Program Engagement must be created for each subsequent referral or attendance at a different service."
+97,Explain must you always create before logging a Service Delivery for a child?,Unable to find matching results.
+98,How can you quickly add multiple Service Deliveries for a group of children?,"You can quickly add multiple Service Deliveries for a group of children by using 'Bulk Service Deliveries'. To do this, follow steps (i) to (ix) as outlined in section 5 of the context."
+99,Where do consultations appear after they are logged?,Consultations appear under the 'Consultations' tab within the child's Program Engagement.
